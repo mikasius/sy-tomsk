@@ -1,0 +1,11 @@
+{
+  "name": "tomsk-sy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Mikasa/sy-tomsk.git",
+  "author": "Sergey Metlenkin <s.metlenkin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
