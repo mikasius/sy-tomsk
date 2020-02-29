@@ -1,1 +1,4 @@
 /node_modules/
+
+# We use yarn.
+package-lock.json

@@ -5,7 +5,11 @@
   "repository": "git@github.com:Mikasa/sy-tomsk.git",
   "author": "Sergey Metlenkin <s.metlenkin@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start -c bs-config.js"
+  },
   "devDependencies": {
+    "browser-sync": "2.26.7",
     "prettier": "1.19.1"
   }
 }
