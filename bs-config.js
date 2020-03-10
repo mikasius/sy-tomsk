@@ -16,7 +16,7 @@ module.exports = {
   watch: true,
   open: 'local',
   ui: false,
-  watchEvents: ['change'],
+  watchEvents: ['change', 'add'],
   ignore: [],
   single: false,
   watchOptions: {
