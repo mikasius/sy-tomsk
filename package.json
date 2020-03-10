@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "browser-sync": "2.26.7",
+    "normalize.css": "8.0.1",
     "prettier": "1.19.1"
   }
 }
